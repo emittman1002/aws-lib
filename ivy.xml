@@ -1,0 +1,15 @@
+<ivy-module version="2.0">
+  <info organisation="mittman.org"
+        module="aws-lib"/>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.ivy/ivy -->
+        <dependency org="org.apache.ivy" name="ivy" rev="2.5.0"/>
+
+        <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-ec2 -->
+        <dependency org="com.amazonaws" name="aws-java-sdk-ec2" rev="1.12.219"/>
+
+        <!-- https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-s3
+        <dependency org="com.amazonaws" name="aws-java-sdk-s3" rev="1.12.219"/>
+ -->
+    </dependencies>
+</ivy-module>
