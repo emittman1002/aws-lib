@@ -1,6 +1,6 @@
 // AWS library
-@Grab('com.amazonaws.com.amazonaws:aws-java-sdk-ec2:1.12.219')
-@Grab('com.amazonaws.com.amazonaws:aws-java-sdk-core:1.12.219')
+// @Grab('com.amazonaws.com.amazonaws:aws-java-sdk-ec2:1.12.219')
+// @Grab('com.amazonaws.com.amazonaws:aws-java-sdk-core:1.12.219')
 
 import software.amazon.awssdk.regions.Region
 import software.amazon.awssdk.services.ec2.Ec2Client
